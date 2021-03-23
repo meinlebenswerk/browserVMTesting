@@ -1,0 +1,3 @@
+[submodule "src/lib/vm-browser"]
+	path = src/lib/vm-browser
+	url = https://github.com/snanovskyi/vm-browser.git

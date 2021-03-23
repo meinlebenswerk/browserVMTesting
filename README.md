@@ -3,7 +3,7 @@ Fairly incomplete security testing of [vm-browserify](https://github.com/browser
 This should not be regarded as a complete test, as it was done simply to prove a point :)
 Maybe (surely) I missed something - If yes, please submit a pull request or shoot me a message!
 
-The test-runner is based on Vue.js and runs directly in your browser, you can check out the live-demo [here](https://meinlebenswerk.github.io/).
+The test-runner is based on Vue.js and runs directly in your browser, you can check out the live-demo [here](https://meinlebenswerk.github.io/browserVMTesting/).
 
 ### Running locally
 If you want to run the project locally, from source, clone this repo via:
